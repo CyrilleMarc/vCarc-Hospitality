@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   background-color: #1b1b1b;
   color: #15b2f0;
-  font-family: "Raleway";
+  font-family: "";
 }
 
 .container {
@@ -28,6 +28,7 @@ a {
 
 h1 {
   margin: 5px;
+  font-family: lato;
 }
 
 @media (min-width: 601px) and (max-width: 1200px) {
